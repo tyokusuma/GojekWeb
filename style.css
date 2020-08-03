@@ -1,0 +1,107 @@
+.mantepdjiwa {
+    background-color:grey;
+    width: 30%;
+    height: 400px;
+    float: left;
+
+}
+
+.mantepdjiwa2 {
+    background-color:yellow;
+    width: 30%;
+    height: 400px;
+    float:left;
+
+}
+
+.mantepdjiwa3 {
+    background-color:green;
+    width: 30%;
+    height: 400px;
+    float: left;
+
+}
+.mantepdjiwa4 {
+    background-color:red;
+    width: 10%;
+    height: 400px;
+    float: left;
+
+}
+
+
+/* css untuk profile  */
+
+.profile1 {
+    background-color: blueviolet;
+    width: 100%;
+    height: 200px;
+    border-radius: 30px;
+}
+
+
+.profile2 {
+    background-color: blueviolet;
+    width: 70%;
+    height: 200px;
+    border-radius: 30px;
+    margin-top: 20px;
+    float: left;
+    
+
+}
+
+.profile3 {
+    background-color: blueviolet;
+    width: 29%;
+    height: 200px;
+    border-radius: 30px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-bottom: 30px;
+
+}
+
+.profile4 {
+    background-color:green;
+    width: 100%;
+    height: 200px;
+    border-radius: 30px;
+    clear: both;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.profile22 {
+    background-color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.profile33 {
+    background-color: yellow;
+    width: 800px;
+    height: 50px;
+    margin-top: 10px;
+    position: static;
+    top: 30px;
+    left: 30px;
+    
+}
+
+.head {
+    width: 200px;
+    height: 100px;
+    background-color: #4caf50;
+}
+/* gojek  */
+
+
+
+dd {
+    float: left;
+    position: relative;
+    top: 25px;
+}
+img {
+    
+}
